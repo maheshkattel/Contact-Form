@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Mahesh Kattel | Flutter Developer | Freelancer | Software Developer</title>
+    <link rel="canonical" href="https://www.maheshkattel.com.np/contact.html">
+    <meta property="og:url" content="https://www.maheshkattel.com.np/contact.html">
+    <meta name="description" content="Creative Freelancer | Flutter Developer from Nepal (Biratnagar). Passionate Web, Fullstack, iOS and Android developer specialized in Flutter and Dart with sound knowledge of Html, Css, Wordpress, Bootstrap Studio and more.">
+    <meta name="twitter:title" content="Mahesh Kattel | Flutter Developer | Software Developer | Freelancer">
+    <meta name="twitter:image" content="https://www.maheshkattel.com.np/assets/img/website.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image" content="https://www.maheshkattel.com.np/assets/img/website.png">
+    <meta property="og:type" content="website">
+    <meta name="twitter:description" content="Passionate Flutter, Web and Fullstack Developer | Freelancer from Biratnagar, Nepal. Creative Android and iOS developer specialized in Flutter and Dart with sound knowledge of Html, Css, Wordpress, Bootstrap Studio and more.">
+    <meta name="keywords" content="Flutter, Flutter Developer, Mobile Developer, Android Developer, iOS Developer, Wordpress, Bootstrap Studio, Html, Css, Java, Php, Mysql, Freelancer, Software Developer, Software Engineer, Coder, Front end Developer, Firebase, Dart, Creative Developer, Web Developer, Full Stack Developer">
+    <meta name="author" content="Mahesh Kattel">
+    <link rel="icon" type="image/png" sizes="36x36" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" sizes="36x36" href="assets/img/favicon.png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/png" sizes="36x36" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" sizes="36x36" href="assets/img/favicon.png" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/swiper-icons.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/Simple-Slider-swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/Simple-Slider.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Team-icons.css">
+    <link rel="stylesheet" href="assets/css/Team-images.css">
+</head>
+
+<body style="background: linear-gradient(90deg, #060606, #434343);">
+    <nav class="navbar navbar-expand-md bg-body text-center" style="background: linear-gradient(90deg, #060606, #434343), var(--bs-navbar-active-color);color: var(--bs-body-bg);border-bottom: 2px solid #434343 ;">
+        <div class="container-fluid"><a href="/"><img src="assets/img/logo.png" width="50" style="background: transparent;"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse d-md-flex justify-content-md-end" id="navcol-1">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="/" style="color: rgba(255,255,255,0.65);font-family: Montserrat, sans-serif;">&lt;PORTFOLIO&gt;</a></li>
+                    <li class="nav-item"><a class="nav-link" href="lab.html" style="color: rgba(255,255,255,0.65);font-family: Montserrat, sans-serif;">&lt;LAB&gt;</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html" style="color: rgba(255,255,255,0.65);font-family: Montserrat, sans-serif;">&lt;ABOUT&gt;</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="contact.html" style="color: rgba(255,255,255,0.65);font-family: Montserrat, sans-serif;">&lt;CONTACT&gt;</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <section style="color: var(--bs-body-bg);text-align: center;">
+        <div class="container position-relative" style="padding-top: 15px;padding-bottom: 15px;">
+            <h1 style="margin-top: 0px;margin-bottom: 0px;font-family: Montserrat, sans-serif;padding-top: 30px;padding-bottom: 30px;">GET IN TOUCH</h1>
+            <div class="row d-flex justify-content-center">
+                <div class="col-md-8 col-lg-6 col-xl-5 col-xxl-4" style="padding-bottom: 0px;margin-bottom: 0px;">
+                    <div class="card mb-5" style="border-radius: 0px;border-width: 2px;border-style: solid;">
+                        <div class="card-body p-sm-5" style="background: linear-gradient(90deg, #1a1a1b, #2e2f2e), var(--bs-body-bg);margin-bottom: 0px;">
+                            <form data-bss-recipient="8e9d333640a931255c4951d00f600597">
+                                <div class="mb-3"><input class="bg-transparent border-light form-control" type="text" id="name-2" name="name" placeholder="Name " required="" autofocus="" data-bs-theme="dark" style="border-radius: 0px;font-family: Montserrat, sans-serif;"></div>
+                                <div class="mb-3"><input class="bg-transparent border-light form-control" type="email" id="email-2" name="email" placeholder="Email" required="" data-bs-theme="dark" style="border-radius: 1px;font-family: Montserrat, sans-serif;"></div>
+                                <div class="mb-3"><input class="bg-transparent border-light form-control" type="text" id="name-1" name="subject" placeholder="Subject" required="" autofocus="" data-bs-theme="dark" style="border-radius: 0px;font-family: Montserrat, sans-serif;"></div>
+                                <div class="mb-3"><textarea class="bg-transparent border-light form-control" id="message-2" name="message" rows="7" placeholder="Message" required="" minlength="10" data-bs-theme="dark" style="border-radius: 0px;font-family: Montserrat, sans-serif;"></textarea></div>
+                                <div><button class="btn btn-primary d-block w-100" type="submit" style="background: #013a95;font-family: Montserrat, sans-serif;border-radius: 0px;border-width: 1px;">Send </button></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col" style="padding-top: 15px;padding-bottom: 15px;">
+                <p style="padding-top: 0px;margin-top: 0px;margin-bottom: 0px;padding-bottom: 8px;font-family: Montserrat, sans-serif;">Contact me directly on:</p>
+                <div class="row justify-content-center">
+                    <div class="col-auto"><a href="https://linkedin.com/in/maheshkattel/" target="_blank"><img class="img-fluid" data-bss-hover-animate="flash" src="assets/img/linkedin.png" style="width: 44px;height: 44px;" alt="mahesh linkedin"></a></div>
+                    <div class="col-auto"><a href="https://api.whatsapp.com/send/?phone=9779803933987" target="_blank"><img class="img-fluid" data-bss-hover-animate="flash" src="assets/img/whatsapp.png" style="width: 44px;height: 44px;padding-left: 3px;padding-right: 3px;padding-top: 3px;padding-bottom: 3px;" alt="mahesh kattel whatsapp"></a></div>
+                </div>
+            </div>
+            <div class="col" style="padding-top: 15px;padding-bottom: 30px;">
+                <p style="padding-top: 0px;margin-top: 0px;margin-bottom: 0px;padding-bottom: 8px;font-family: Montserrat, sans-serif;">Hire me directly on:</p>
+                <div class="row justify-content-center">
+                    <div class="col-auto"><a href="https://upwork.com/freelancers/~0161e6f3bf71970204" target="_blank"><img class="img-fluid" data-bss-hover-animate="flash" src="assets/img/upwork.png" style="width: 44px;height: 44px;" alt="mahesh upwork"></a></div>
+                    <div class="col-auto"><a href="https://fiverr.com/maheshkattel" target="_blank"><img class="img-fluid" data-bss-hover-animate="flash" src="assets/img/fiverr.png" style="width: 44px;height: 44px;padding-left: 3px;padding-right: 3px;padding-top: 3px;padding-bottom: 3px;" alt="mahesh kattel fiverr"></a></div>
+                </div>
+            </div>
+        </div>
+    </section><div>
+    <div class="cursor">
+        <div class="cursor2"></div>
+    </div>
+    <script>
+    var cursor = document.querySelector(".cursor");
+    var cursor2 = document.querySelector(".cursor2");
+    document.addEventListener("mousemove",function(e){
+      cursor.style.cssText = "left: " + e.clientX + "px; top: " + e.clientY + "px;";
+        cursor2.style.cssText = "left: " + e.clientX + "px; top: " + e.clientY + "px;";
+        
+    });
+  </script>
+    </div>
+
+    <div class="row" id="footer" style="padding-top: 15px;padding-bottom: 15px;">
+        <div class="col-auto">
+            <p style="margin-top: 0px;margin-bottom: 0px;color: var(--bs-body-bg);font-size: 14px;text-align: center;padding-left: 3px;padding-right: 3px;">Made&nbsp; with 💝 using Bootstrap Studio</p>
+        </div>
+        <div class="col-auto">
+            <p style="margin-top: 0px;margin-bottom: 0px;color: var(--bs-body-bg);font-size: 14px;text-align: center;padding-left: 3px;padding-right: 3px;">© 2024 | Mahesh Kattel</p>
+        </div>
+    </div>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/smart-forms.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/Simple-Slider-swiper-bundle.min.js"></script>
+    <script src="assets/js/Simple-Slider.js"></script>
+</body>
+
+</html>
