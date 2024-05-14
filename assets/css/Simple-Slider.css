@@ -1,0 +1,83 @@
+.simple-slider .swiper-slide {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+  width: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+    display: none;
+  }
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-slide {
+    height: 360px;
+  }
+}
+
+.labcontent {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 7px;
+}
+
+@media (min-width: 768px) {
+  .labcontent {
+    border: none!important;
+  }
+}
+
+@media (min-width: 768px) {
+  #labp {
+  }
+}
+
+#carosel {
+  transition: linear;
+  zoom: normal;
+}
+
+#caroselactive {
+  zoom: normal;
+  transition: linear;
+}
+
+#labwidth {
+}
+
+@media (min-width: 300px) {
+  #labwidth {
+    width: 70%;
+  }
+}
+
+@media (min-width: 768px) {
+  #labwidth {
+    width: 25%!important;
+  }
+}
+
+@media (min-width: 576px) {
+  #labwidth {
+    width: 50%;
+  }
+}
+
+.allfooter {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.body {
+  position: relative;
+}
+
